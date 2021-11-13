@@ -1,3 +1,9 @@
+body{
+
+    background-image: linear-gradient(to bottom, #9c33f1, #7c24ce, #22298f, #0e1981, #0c0c0c);
+    color:black;
+
+}
 #start-btn
 {
     width: 40%;
